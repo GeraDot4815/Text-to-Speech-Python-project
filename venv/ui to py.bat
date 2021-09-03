@@ -1,0 +1,1 @@
+pyuic5.exe -x C:\Users\Asus\PycharmProjects\pythonProject\venv\UI\Window.ui -o C:\Users\Asus\PycharmProjects\pythonProject\venv\GUI.py
